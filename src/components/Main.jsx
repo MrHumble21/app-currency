@@ -12,7 +12,7 @@ const Main = () => {
     useEffect(() => {
         date()
     },)
-    const dateRefresh = setInterval(date, 1000)
+    // const dateRefresh = setInterval(date, 1000)
 
     return (
         <div>
